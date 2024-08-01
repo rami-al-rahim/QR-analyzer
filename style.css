@@ -76,3 +76,16 @@ section{background-color: #f8f9fa;}
         max-width: 100%;
     }
 }
+
+.site-wrapper-inner {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.inner {
+    padding: 30px;
+}
+
+.site-wrapper-inner {
+    vertical-align: middle;
+}
