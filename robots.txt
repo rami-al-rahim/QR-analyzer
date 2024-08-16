@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://stockend.rami-dev.com/sitemap.xml
+Sitemap: https://qr-analyzer.rami-dev.com/
