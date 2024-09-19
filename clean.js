@@ -37,3 +37,4 @@ let fs = require("fs"),
         });
     };
 minifyFiles("./");
+///
